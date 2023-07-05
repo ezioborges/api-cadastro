@@ -1,0 +1,1 @@
+{"id":"e31f36bc-8dec-44fd-9407-fa241509b6d8","name":"Ezio","email":"ezio@ezio.com","password":"password","passwordConfirmation":"password"}
